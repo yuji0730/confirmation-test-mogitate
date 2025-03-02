@@ -1,0 +1,12 @@
+.product-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.product-main {
+    display: flex;
+}
+
+.product-main__inner {
+    display: grid;
+}

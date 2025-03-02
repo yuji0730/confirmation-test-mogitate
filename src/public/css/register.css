@@ -1,0 +1,16 @@
+.register-form__group {
+     margin: 0 auto;
+}
+
+.register-form__season-inputs {
+    display: flex;
+}
+
+.register-form__required {
+    margin-left: 5px;
+    background-color: red;
+}
+
+.register-form__error-message {
+    color: red;
+}
