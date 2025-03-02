@@ -21,7 +21,7 @@ laravel環境構築
 * MySQL 8.0.26
 
 ## ER図
-
+![Image](https://github.com/user-attachments/assets/70b0a8e3-5ddc-4b93-9b66-3c047063a384)
  
 ## URL 
 * 開発環境:http://localhost/ 
